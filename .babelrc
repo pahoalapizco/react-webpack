@@ -1,0 +1,6 @@
+{
+  "presets": [
+    "@babel/preset-env", // Para todo tipo de JS
+    "@babel/preset-react" 
+  ]
+}

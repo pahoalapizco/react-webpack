@@ -1,3 +1,5 @@
 import React from "react";
 
-export const App = () => <h1> Probando webpack con React! :D </h1>;
+const App = () => <h1> Probando webpack con React! :D </h1>;
+
+export default App;
