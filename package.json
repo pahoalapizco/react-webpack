@@ -1,0 +1,24 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pahoalapizco/react-webpack.git"
+  },
+  "keywords": ["react", "webpack"],
+  "author": "Paola Alapizco <paolac.alapizco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pahoalapizco/react-webpack/issues"
+  },
+  "homepage": "https://github.com/pahoalapizco/react-webpack#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
